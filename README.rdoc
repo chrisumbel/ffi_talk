@@ -5,7 +5,7 @@ my FFI lighting talk. Broadly the examples assume
 a POSIX operating system and the S.M.A.R.T. example
 assumes Linux but could be ported elsewhere easy 
 enough. Be careful, the examples are arranged to fit
-on a project screen more than correctness:)
+on a projector screen more than correctness:)
 
 == Examples
 
