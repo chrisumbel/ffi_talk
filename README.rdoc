@@ -1,0 +1,28 @@
+= FFI Talk
+
+== Examples
+
+=== hello_world
+
+Simple hello world example
+
+=== hello
+
+Example passing params to C function
+
+=== inet_checksum
+
+Example using pointers and semi-realistic computation
+
+=== getpid
+
+libc example that gets the current process id
+
+=== smart
+
+Native code returns pointers to structs containing
+hard drive diagnostic information
+
+== presentation
+
+showoff slides
