@@ -30,6 +30,6 @@ libc example that gets the current process id
 Native code returns pointers to structs containing
 hard drive diagnostic information (Linux specific)
 
-== presentation
+== Presentation
 
 showoff slides
