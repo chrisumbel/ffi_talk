@@ -1,5 +1,11 @@
 = FFI Talk
 
+These are the slides and the example code I used in
+my FFI lighting talk. Broadly the examples assume
+a POSIX operating system and the S.M.A.R.T. example
+assumes Linux but could be ported elsewhere easy 
+enough.
+
 == Examples
 
 === hello_world
@@ -18,10 +24,10 @@ Example using pointers and semi-realistic computation
 
 libc example that gets the current process id
 
-=== smart
+=== S.M.A.R.T.
 
 Native code returns pointers to structs containing
-hard drive diagnostic information
+hard drive diagnostic information (Linux specific)
 
 == presentation
 
