@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-unsigned int inet_checksum(unsigned char *buff, int len) {
+unsigned short inet_checksum(unsigned char *buff, int len) {
   int i;
   unsigned long long sum = 0;
   unsigned short datum = 0;
