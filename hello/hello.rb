@@ -8,4 +8,4 @@ module Hello
   attach_function :say_hello, [:string], :void
 end
 
-Hello::say_hello ARGV[0] # <-- NULL terminated
+Hello::say_hello ARGV[0] # <-- NULL terminated string
